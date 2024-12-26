@@ -1,0 +1,320 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.fullcontainer {
+    display: flex;
+    justify-content: center;
+    background: #F1EBFF;
+
+
+}
+
+.displayflex {
+    display: flex;
+    padding: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    max-width: 1440px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1440px;
+    width: 100%;
+    gap: 16px;
+}
+
+
+.Buy {
+    color: #40D;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+
+.fullmain {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1040px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.svgbackground {
+    border-radius: 16px;
+    background: #F1EBFF;
+    display: flex;
+    padding: 8px 24px 8px 12px;
+    align-items: center;
+    gap: 12px;
+    max-width: 211px;
+    width: 100%;
+    margin-top: 70px;
+}
+
+.search {
+    display: flex;
+    width: 56px;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+    margin-top: 70px;
+}
+
+
+.alignitemccenter {
+    display: flex;
+    justify-content: center;
+}
+
+
+.firstmain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+
+.justifycenter {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+
+.everything {
+    color: #5E6577;
+    text-align: right;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    width: 570px;
+}
+
+
+.Totalprice {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    gap: 24px;
+    margin-top: 64px;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+
+.Price {
+    color: #40D;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.Includes {
+    color: #5E6577;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.marginauto {
+    margin-top: 64px;
+}
+
+
+.line {
+    display: flex;
+    width: 1040px;
+    margin: 0 auto;
+    padding-top: 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-bottom: 1px solid #CCD3E0;
+}
+
+
+.borderpaint {
+    border-top: solid 2px #8CE900;
+    border-left: solid 2px #000;
+    border-right: solid 2px #155EEF;
+    border-bottom: solid 2px #DD2590;
+    width: 1040px;
+    min-height: 266px;
+    display: flex;
+    justify-content: space-between;
+    padding: 18px 23px 0px 24px;
+}
+
+
+.test {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 64px;
+    gap: 64px;
+}
+
+
+.Snowdon {
+    color: #5E6577;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    display: flex;
+    max-width: 488px;
+}
+
+
+.okay {
+    display: flex;
+    justify-content: space-between;
+    max-width: 488px;
+    gap: 16px;
+
+}
+
+
+.Nestled {
+    color: #969696;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    gap: 16px;
+    display: flex;
+    width: 473px;
+}
+
+
+.Mount {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.bordermiddle {
+    display: flex;
+    width: 1040px;
+    min-height: 272px;
+    padding: 16px 24px;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid #40D;
+    background: #EDE6FC;
+}
+
+
+.beautifully {
+    display: flex;
+    align-items: center;
+}
+
+
+.Located {
+    color: #3B3B3B;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 484px;
+}
+
+
+.Hostel {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+
+.Sacramento {
+    color: #5E6577;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    width: 488px;
+    text-align: right;
+}
+
+
+.lastborder {
+    display: flex;
+    width: 1040px;
+    height: 272px;
+    padding: 16px 24px;
+    align-items: flex-end;
+    gap: 16px;
+    justify-content: space-between;
+    border-radius: 8px;
+    border: 1px solid #004FE3;
+}
+
+
+.Clink78 {
+    color: #07081A;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+
+.Oliver {
+    color: #155EEF;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    width: 488px;
+}
+
+
+.century {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+
+}
+
+
+.lastline {
+    border-top: 1px solid #F1EBFF;
+    display: flex;
+    padding: 40px 200px 0px 928px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 193px;
+    width: 100%;
+    
+}
+
+
+.lastimage {
+    display: flex;
+    gap: 24px;
+    max-width: 1040px;
+}
